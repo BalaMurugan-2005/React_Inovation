@@ -21,6 +21,9 @@ function App() {
         <button onClick={ince}>Increment</button>
         <button onClick={decr}>Decrement</button>
         <button onClick={reset}>reset</button>
+        <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
       </div>
     </>
   )
